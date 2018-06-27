@@ -5,7 +5,8 @@
  *
  * ![](https://img.shields.io/badge/clitoris-v1.0.0-green.svg) ![](https://img.shields.io/badge/tests-passing-green.svg) ![](https://img.shields.io/badge/coverage-100%25-green.svg)  ![](https://img.shields.io/badge/stable-98%25-green.svg)
  *
- *
+ * Tool to bring complex parametrization to your CLI-based applications.
+ * 
  * A simple utility that transforms (console-friendly) strings or (JavaScript) arrays of strings into complex JavaScript data: objects, arrays, numbers, strings, booleans (, null or undefined), nested or not.
  *
  * ## 1. Installation
