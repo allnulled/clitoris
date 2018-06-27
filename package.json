@@ -2,7 +2,7 @@
 	"name": "clitoris",
 	"version": "1.0.0",
 	"description":
-		"A simple utility that transforms (console-friendly) strings or (JavaScript) arrays of strings into complex JavaScript data: objects, arrays, numbers, strings, booleans (, null or undefined), nested or not.",
+		"A simple utility that transforms (console-friendly) strings or (JavaScript) arrays of strings into complex JavaScript data: objects, arrays, numbers, strings, booleans, null, undefined, nested or not.",
 	"main": "src/clitoris.js",
 	"directories": {
 		"test": "test"
